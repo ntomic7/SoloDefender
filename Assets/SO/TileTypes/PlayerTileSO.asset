@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d63912962c87c3245b091e2135e68b41, type: 3}
+  m_Name: PlayerTileSO
+  m_EditorClassIdentifier: 
+  tileName: Player
+  width: 1
+  height: 1
+  prefabTransform: {fileID: 1789496413648990112, guid: c11ff5ac0b28b354ebb14da62f840edd, type: 3}
+  IsOccupied: 1
