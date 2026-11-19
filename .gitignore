@@ -16,6 +16,7 @@
 *.suo
 
 # Art and audio excluded from portfolio
+Assets/Animations/
 Assets/PNGs/
 Assets/SFX/
 Assets/Utils/CodeMonkey/
