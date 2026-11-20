@@ -1,0 +1,23 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Bb]uild/
+[Bb]uilds/
+
+# IDE files
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+*.suo
+
+# Art and audio excluded from portfolio
+Assets/Animations/
+Assets/PNGs/
+Assets/SFX/
+Assets/Utils/CodeMonkey/
+Assets/Utils/TextMesh Pro/

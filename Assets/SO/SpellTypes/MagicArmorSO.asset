@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d6e900c969a92042a0ee3fa4517ff4a, type: 3}
+  m_Name: MagicArmorSO
+  m_EditorClassIdentifier: 
+  spellName: Magic Armor
+  spellType: 9
+  BuffTypeSO: {fileID: 11400000, guid: 9ca2583b7f1ad4d4d9b09d408ab3276e, type: 2}
+  initialPercentage: 0
+  manaCost: 15
+  IsBuff: 1
+  skillCooldown: 1
