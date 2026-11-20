@@ -25,6 +25,14 @@ settlement, defend from invading enemies and ultimately defeat enemy camps.
 - **Event-driven communication:** Events used to communicate gameplay changes between different components.
 - **Data Management:** ScriptableObjects used to organize and manage gameplay data.
 
+## Screenshots
+
+![Gameplay](Screenshots/Gameplay.png)
+
+![Combat](Screenshots/Battle.png)
+
+![Settlement](Screenshots/Inventory.png)
+
 ## Gameplay
 
 The playable game is available on itch.io: [Play Solo Defender](https://ntomic7.itch.io/)
